@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	texts := []string{"SRSSRRR", "RSSRR", "SSSRRRRS", "SRRSSR", "SSRSRRR"}
+	texts := []string{"SRSSRRR", "RSSRR", "SSSRRRRS", "SRRSSR", "SSRSRRR", "SRSRSSRSRRR"}
 	for _, txtcase := range texts {
 		fmt.Println(txtcase, checkSR(txtcase))
 
