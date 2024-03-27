@@ -1,24 +1,41 @@
-1.SRSSRRR => Good boy
-S แรก คือ เด็กๆยิง Boss Baby ก่อน
-RR หลัง S แรก คือ Boss Baby แก้แค้นสองนัดที่ถูกยิง
-SS ถัดมา คือ เด็กๆยิง Boss Baby อีกสองนัด
-RR สุดท้าย คือ Boss Baby แก้แค้นอีกสองนัด ดังนั้นจึงถือว่า Good boy เพราะ Boss Baby ไม่ได้ยิงก่อน และแก้แค้นได้ทุกนัดที่ถูกยิง
+1.SRSSRRR = Good boy
+S แรก คือ เด็กยิงก่อน
+RR คือ Boss Baby แก้แค้น
+SS คือ เด็กยิง Boss Baby 
+RR คือ Boss Baby แก้แค้น 
+ดังนั้นจึงถือว่า Good boy เพราะ Boss Baby ไม่ได้ยิงก่อน และแก้แค้นได้ทุกนัดที่ถูกยิง
 
-2.RSSRR => Bad boy
-R แรก คือ Boss Baby ยิงก่อนเด็กๆ ซึ่งผิดเงื่อนไข จึงเป็น Bad boy แม้ว่าจะแก้แค้นครบทุกนัดก็ตาม
+2.RSSRR = Bad boy
+R คือ Boss Baby ยิงก่อนเด็กๆ ซึ่งผิดเงื่อนไข 
+จึงเป็น Bad boy แม้ว่าจะแก้แค้นครบทุกนัดก็ตาม
 
-3.SSSRRRRS => Bad boy
-SSS แรก คือ เด็กๆยิง Boss Baby 3 นัด
-RRRR ถัดมา คือ Boss Baby แก้แค้นเพียง 3 นัด จากที่ถูกยิง 3 นัด
-S สุดท้าย คือ เด็กๆยิงอีกนัด แต่ Boss Baby ไม่ได้แก้แค้นนัดนี้ ดังนั้นจึงเป็น Bad boy เพราะมีนัดที่ Boss Baby ไม่ได้แก้แค้น
+3.SSSRRRRS = Bad boy
+SSS คือ เด็กยิง Boss Baby 
+RRRR คือ Boss Baby แก้แค้น
+S คือ เด็กยิง Boss Baby  
+ไม่ได้แก้แค้นนัดนี้ ดังนั้นจึงเป็น Bad boy เพราะมีนัดที่ Boss Baby ไม่ได้แก้แค้น
 
-4.SRRSSR => Bad boy
-S แรก คือ เด็กๆยิง Boss Baby ก่อน
-RR ถัดมา คือ Boss Baby แก้แค้นเพียงนัดเดียว
-SS ต่อมา คือ เด็กๆยิงอีก 2 นัด แต่ Boss Baby ไม่ได้แก้แค้นนัดที่สอง
-R สุดท้าย คือ Boss Baby แก้แค้นจากนัดอื่นๆ ดังนั้นจึงเป็น Bad boy เพราะมีนัดที่ Boss Baby ไม่ได้แก้แค้น
+4.SRRSSR = Bad boy
+S คือ เด็กๆยิง Boss Baby ก่อน
+RR คือ Boss Baby แก้แค้นเพียงนัดเดียว
+SS คือ เด็กๆยิงอีก 2 นัด แต่ Boss Baby ไม่ได้แก้แค้นนัดที่สอง
+R คือ Boss Baby แก้แค้นจากนัดอื่นๆ 
+ดังนั้นจึงเป็น Bad boy เพราะมีนัดที่ Boss Baby ไม่ได้แก้แค้น
 
-5.SSRSRRR => Good boy
-SS แรก คือ เด็กๆยิง Boss Baby 2 นัด
-R ถัดมา คือ Boss Baby แก้แค้นนัดแรก
-SRRR ต่อมา คือ เด็กๆยิงอีกนัด แล้ว Boss Baby ก็แก้แค้นนัดที่สอง และนัดที่สาม ดังนั้นจึงเป็น Good boy เพราะ Boss Baby ไม่ได้ยิงก่อน และแก้แค้นได้ทุกนัดที่ถูกยิง
+5.SSRSRRR = Good boy
+SS คือ เด็กยิง Boss Baby 
+R คือ Boss Baby แก้แค้น
+S คือ เด็กยิง Boss Baby
+RRR คือ Boss Baby ก็แก้แค้นนัด
+ดังนั้นจึงเป็น Good boy เพราะ Boss Baby ไม่ได้ยิงก่อน และแก้แค้นได้ทุกนัดที่ถูกยิง
+
+6.SRSRSSRSRRR = Good boy
+S คือ เด็กยิง Boss Baby
+R คือ Boss Baby แก้แค้น
+S คือ เด็กยิง Boss Baby
+R คือ Boss Baby แก้แค้น
+SS คือ เด็กยิง Boss Baby
+R คือ Boss Baby แก้แค้น
+S คือ เด็กยิง Boss Baby
+RRR คือ Boss Baby แก้แค้น
+ดังนั้นจึงถือว่า Good boy เพราะ Boss Baby ไม่ได้ยิงก่อน และแก้แค้นได้ทุกนัดที่ถูกยิง
