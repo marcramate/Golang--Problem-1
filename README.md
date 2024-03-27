@@ -7,11 +7,10 @@
 ## User Language
  * Golang
 ## EX.
- * Thai Version :
-   * สร้างฟังก์ชั่น checkSR โดยมี ตัวแปร shots แทน การยิงของเด็ก และ rev แทนการแก้แค้น และทำการนับจำนวนของการยิงและการแก้แค้น โดยถ้าบอสเบบี้เริ่มก่อนจะเป็น Badboyทันที หรือถ้า บอสเบบี้แก้แค้นไม่ครบทุกนัดก็จะเช่นเดียวกัน แต่ถ้าบอสเบบี้ไม่ได้เริ่มก่อนและแก้แค้นครบทุกนัดตามที่เด็กยิงมา จะเป็น Goodboy
 * Englist Version : 
    * Create Function  checkSR with 'shot' represents a shot and 'rev'  represents a revenge, It counting number shot and rev. If Boss Baby already shot at him fist will become 'Badboy' or Boss Baby doesn't get revenge in every shot. But if Boss Baby doesn't take him first and all shots have been revenged, it will be'Goodboy'
-
+ * Thai Version :
+   * สร้างฟังก์ชั่น checkSR โดยมี ตัวแปร shots แทน การยิงของเด็ก และ rev แทนการแก้แค้น และทำการนับจำนวนของการยิงและการแก้แค้น โดยถ้าบอสเบบี้เริ่มก่อนจะเป็น Badboyทันที หรือถ้า บอสเบบี้แก้แค้นไม่ครบทุกนัดก็จะเช่นเดียวกัน แต่ถ้าบอสเบบี้ไม่ได้เริ่มก่อนและแก้แค้นครบทุกนัดตามที่เด็กยิงมา จะเป็น Goodboy
 ## Result
 ```
   Input    |  Output  
