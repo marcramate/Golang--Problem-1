@@ -4,7 +4,7 @@
   * Boss Baby, known for his cool and clever ways, deals with teasing from the neighborhood kids who shoot water guns at his house. In response, Boss Baby seeks revenge by shooting at least one shot back, but only if the kids have already shot at him first. As Boss Baby's assistant
 * Thai Version :
   *  บอสเบบี้มีความฉลาด แต่ได้มีเด็กในบริเวณบ้านมายิงปืนฉีดน้ำใส่บ้าน บอสเบบี้จึงทำการแก้แค้น โดย ยิงคืน 1 ครั้ง แต่จะยิงเมื่อเด็กยิงมาก่อน และมีเงื่อนไขการเป็น Goodboy คือบอสเบบี้ไม่ได้เริ่มยิงก่อนและทุกนัดที่โดนเด็กยิงได้แก้แค้นแล้ว แต่ถ้าไม่เข้าเงื่อนไขเหล่านี้ จะเป็น Badboy
-## User Language
+## Use Language
  * Golang
 ## EX.
 * Englist Version : 
